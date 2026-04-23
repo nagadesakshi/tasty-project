@@ -37,6 +37,7 @@ tasty-project/
 
 ## 📸 Screenshots
 <img width="269" height="180" alt="image" src="https://github.com/user-attachments/assets/ceec1cb6-85bf-406c-afda-577fb1a70f5a" />
+<img width="1470" height="980" alt="image" src="https://github.com/user-attachments/assets/f211a0e2-39d5-4bc3-8352-00974cdb2a6c" />
 
 
 
