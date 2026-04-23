@@ -36,8 +36,9 @@ tasty-project/
 ---
 
 ## 📸 Screenshots
-![alt text](OIP.jpg)
-![alt text](<OIP (1).jpg>)
+<img width="269" height="180" alt="image" src="https://github.com/user-attachments/assets/ceec1cb6-85bf-406c-afda-577fb1a70f5a" />
+
+
 
 ---
 
