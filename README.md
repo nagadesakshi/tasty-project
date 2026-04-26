@@ -1,7 +1,7 @@
 # 🍽️ Tasty Project
 
 ## 📌 Description
-Tasty Project is a simple and attractive food-related website built using HTML. It showcases delicious dishes, recipes, and includes basic pages like Home, About, and Contact.
+Tasty Project is a simple and attractive food-related website built using HTML. It showcases delicious dishes,and includes basic pages like Home, About, and manu,Contact.
 
 ---
 
@@ -10,12 +10,13 @@ Tasty Project is a simple and attractive food-related website built using HTML. 
 - 📖 About Page  
 - 📞 Contact Page  
 - 🎨 Simple and clean design  
-- 📱 Beginner-friendly  
+-  📇 index page
+-  📄 menu pagae 
 
 ---
 
 ## 🛠️ Technologies Used
-- HTML5  
+- HTML
 
 ---
 
@@ -31,7 +32,7 @@ tasty-project/
 ## 💻 How to Run
 1. Clone the repository  
 2. Open the folder  
-3. Run `index.html` in your browser  
+3. Run `index.html` in your browser  than show about pagae , menu page , contact page
 
 ---
 
@@ -42,11 +43,3 @@ tasty-project/
 
 
 ---
-
-## 🤝 Contribution
-Feel free to contribute to this project.
-
----
-
-## 📄 License
-This project is for educational purposes only.
